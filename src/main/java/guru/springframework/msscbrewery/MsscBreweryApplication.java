@@ -1,4 +1,4 @@
-package kupriyanov.msscbrewery;
+package guru.springframework.msscbrewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
